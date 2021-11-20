@@ -1,8 +1,8 @@
 ### Hi there 👋
-🙋‍♂️ I'm Si Thu Hein! <br>
-👨‍🎓 who has graduated from Edinburgh Napier University with Computer Science Major. <br>
-👨‍💻 I’m a Fronted Web Developer and want to be Full Stack Dev. <br>
-🤝 I’m looking to collaborate on ... <br>
++ 🙋‍♂️ I'm Si Thu Hein! <br>
++ 👨‍🎓 who has graduated from Edinburgh Napier University with Computer Science Major. <br>
++ 👨‍💻 I’m a Fronted Web Developer and want to be Full Stack Dev. <br>
++ 🤝 I’m looking to collaborate on ... <br>
 <!--
 **sithu-dev/sithu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
